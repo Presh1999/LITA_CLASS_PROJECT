@@ -1,6 +1,4 @@
-# SALES-DATA-ANALYSIS-PROJECT
-
-### Project Title: 
+# Project Title: Sales Analysis Across Business Sectors 
 
 ### Overview
 This project analyzes sales data to evaluate revenue and units sold across various stores, markets, and regions. Understanding these metrics will help identify high-performing areas and potential opportunities for growth. The analysis aims to inform strategic decisions related to inventory management, marketing efforts, and sales optimization.
@@ -9,20 +7,41 @@ This project analyzes sales data to evaluate revenue and units sold across vario
 Sources: The data was obtained from different stores and markets in different regions.
 
 Types of Data:
-Sales Transactions: Includes fields such as transaction date, store ID, market, region, product ID, quantity sold, and total revenue.
-Store Information: Data on store locations, sizes, and types.
-Market and Region Data: Demographic information and economic factors relevant to each market and region.
-Preprocessing Steps:
-Data Cleaning: Remove duplicates, handle missing values, and ensure data consistency.
-Data Transformation: Convert data types as needed (e.g., dates, numeric values) and aggregate sales data by store, market, and region.
-Time-frame Selection: Define the period for analysis (e.g., last year, last quarter).
-3. Project Objective
-The objectives of this project are to:
+Sales Transactions: Includes fields such as trade date, unit sold, and total revenue.
+Store Information: Data on store ID store locations, sizes, and types.
+Market and Region Data: Demographic information like region and market.
 
-Analyze total revenue generated and units sold across different stores, markets, and regions.
-Identify trends and patterns in sales performance based on geographic and demographic factors.
-Compare performance metrics between regions to highlight best practices and areas needing improvement.
-Provide recommendations for targeted marketing and sales strategies based on analysis results.
+### TOOLS USED
+- Microsoft Excel [Download Here](https//www.microsoft.com)
+  1. For Data Cleaning,
+  2. Analysis 
+  3. Data Visualization
+ 
+- SQL - Structured Query Language for Querrying of data
+  
+- GitHub for portfolio building
+
+### Project Objective
+  - The objectives of this project are to:
+  - Analyze total revenue generated and units sold across different stores, 
+    markets, and regions.
+  - Identify trends and patterns in sales performance based on geographic and 
+    demographic factors.
+  - Compare performance metrics between regions to highlight best practices and 
+    areas needing improvement.
+  - Provide recommendations for targeted marketing and sales strategies based on 
+    analysis results.
+
+ ### PREPROCESSING STEPS
+- Data Cleaning: Remove duplicates, handle missing values, and ensure data 
+       consistency.
+- Data Transformation: Convert data types as needed (e.g., dates, numeric 
+       values) and aggregate sales data by store, market, and region.
+- Time-frame Selection: Define the period for analysis (e.g., One month, two 
+     months).
+    
+
+     
 4. Visual Analysis and Inference
 Visualizations:
 Bar Charts: Display total revenue and units sold by store, market, and region.
