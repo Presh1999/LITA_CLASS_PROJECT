@@ -60,6 +60,15 @@ SELECT * FROM TABLE 3
 WHERE REVENUE > 100560.934
  ```
 
+
+
+
+
+
+
+
+
+
 ### Visual Analysis and Inference Visualizations:
 ---
  - Bar Charts: Display total revenue and units sold by store, market, and region.
