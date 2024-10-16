@@ -1,9 +1,11 @@
 # Project Title: Sales Analysis Across Business Sectors 
 
-### Overview
+### Project Overview
+---
 This project analyzes sales data to evaluate revenue and units sold across various stores, markets, and regions. Understanding these metrics will help identify high-performing areas and potential opportunities for growth. The analysis aims to inform strategic decisions related to inventory management, marketing efforts, and sales optimization.
 
 ### Data Collected
+---
 Sources: The data was obtained from different stores and markets in different regions.
 
 Types of Data:
@@ -12,6 +14,7 @@ Store Information: Data on store ID store locations, sizes, and types.
 Market and Region Data: Demographic information like region and market.
 
 ### TOOLS USED
+---
 - Microsoft Excel [Download Here](https//www.microsoft.com)
   1. For Data Cleaning,
   2. Analysis 
@@ -39,9 +42,24 @@ Market and Region Data: Demographic information like region and market.
        values) and aggregate sales data by store, market, and region.
 - Time-frame Selection: Define the period for analysis (e.g., One month, two 
      months).
-    
 
-     
+ ### DATA ANALYSIS   
+In this section queries are written to obtain some data;
+
+```
+SELECT * FROM TABLE 1
+WHERE REGION = "North Central"
+
+SELECT * FROM TABLE 2
+WHERE STORE = "Ankpa" and SUM OF REVENUE = "1.7BN"
+
+SELECT * FROM TABLE 3
+WHERE REVENUE > 100560.934
+ ```
+
+
+
+   
 4. Visual Analysis and Inference
 Visualizations:
 Bar Charts: Display total revenue and units sold by store, market, and region.
