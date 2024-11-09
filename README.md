@@ -61,37 +61,25 @@ WHERE REVENUE > 100560.934
  ```
 
 
-
-
-
-
-
-
-
-
-
 ### Visual Analysis and Inference Visualizations:
 ---
- - Bar Charts: Display total revenue and units sold by store, market, and region.
- - Heatmaps: Visualize sales performance across different regions to identify 
+  - Bar Charts: Display total revenue and units sold by store, market, and region.
+  - Heatmaps: Visualize sales performance across different regions to identify 
    high and low-performing areas.
- - Line Charts: Show sales trends over time to highlight seasonal variations.
+  - Line Charts: Show sales trends over time to highlight seasonal variations.
 
 
-
-Insights:
-Summarize key findings from the visual analysis, such as:
-Regions or markets with the highest and lowest sales.
-Correlation between store size/type and sales performance.
-Seasonal trends impacting sales in specific regions.
-5. Key Metrics
-Total Revenue: Overall revenue generated across all stores and regions during the analysis period.
-Total Units Sold: Total number of products sold, aggregated by store and region.
-Average Revenue per Store: Total revenue divided by the number of stores in each region.
-Revenue Growth Rate: Percentage change in revenue over time (e.g., month-over-month or year-over-year).
-Sales per Square Foot: Measure of sales efficiency based on store size.
-6. How to Use the Data
-Accessing the Data: Instructions on where to find the dataset (e.g., links to databases, shared drives).
-Data Exploration: Tips on how to navigate the dataset and explore it using tools like Excel, Python (pandas), or visualization software (Tableau, Power BI).
-Using Visuals: Guidelines on interpreting the visualizations and applying insights to sales strategies.
-Further Analysis: Suggestions for additional analyses that could be performed, such as customer segmentation or predictive sales modeling.
+### Insights
+---
+- Summarize key findings from the visual analysis, such as:
+ - Regions or markets with the highest and lowest sales.
+ - Correlation between store size/type and sales performance.
+ - Seasonal trends impacting sales in specific regions.
+   
+### Key Metrics
+---
+- Total Revenue: Overall revenue generated across all stores and regions during the analysis period.
+- Total Units Sold: Total number of products sold, aggregated by store and region.
+- Average Revenue per Store: Total revenue divided by the number of stores in each region.
+- Revenue Growth Rate: Percentage change in revenue over time (e.g., month-over-month or year-over-year).
+- Sales per Square Foot: Measure of sales efficiency based on store size.
